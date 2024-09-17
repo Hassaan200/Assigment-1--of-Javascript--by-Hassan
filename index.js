@@ -273,7 +273,7 @@
 // document.write("<br> You will need " + entire_amount + " silenty" + "  to last you until the ripe old age of " + max_age);
 
 
-                              X________________________________________X
+                            //   X________________________________________X
 
 
 
