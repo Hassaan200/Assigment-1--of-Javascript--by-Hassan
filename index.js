@@ -85,16 +85,16 @@
 
 // chapter 4
 
-var a = 10, b = 20, c = 30;
-console.log(a + b + c);
+// var a = 10, b = 20, c = 30;
+// console.log(a + b + c);
 
-// legal variables
+// // legal variables
 
-let myVariable;
-let _name;
-let $price;
-let firstName;
-let age2;
+// let myVariable;
+// let _name;
+// let $price;
+// let firstName;
+// let age2;
 
 // Illegal variables
 
@@ -217,15 +217,63 @@ let age2;
 
 // Qustion 9
 
-var $ = 10
-var riyals = 25 ;
-var rupee$ = 104.80 ;
-var rupees_riyal = 2
-document.write("Total currency in PKR: " +  (rupees_riyal * riyals) + (rupee$ *  $) );
+// var $ = 10
+// var riyals = 25 ;
+// var rupee$ = 104.80 ;
+// var rupees_riyal = 28;
+// document.write("Total currency in PKR: " +  (rupees_riyal * riyals + rupee$ *  $) );
 
 
 
+// Question 10
 
+// var number = 3;
+// var result = ((number + 5)  * 10 / 2);
+// console.log(result);
+// document.write(result);
+
+//  Question 11
+
+// var current_year = 2024;
+// var  birth_year = 2003;
+
+// var age = current_year - birth_year ;
+// document.write("Current Year :  " + current_year);
+// document.write("<br> Birth Year : " + birth_year);
+// document.write("<br> Your Age is : " + age);
+// console.log("so : They are either " + age + " or 22 years old");
+
+
+// Question 12
+
+// let radius = 20;
+// let pi = 3.142;
+// let The_circumference = 2 * pi * radius;
+// let The_area = pi * radius * radius;
+// document.write("Radius of a circle : " + radius);
+
+// document.write("<br> The Circumference is : " + The_circumference);
+// document.write("<br> The Area is : " + The_area);
+
+
+//  Question 13
+
+// let snack = "Silenty";
+// let age = 15;
+// let max_age = 65;
+// const amount = 3;
+// let entire_amount = (max_age - age) * 3;
+// console.log("You will need " + entire_amount  +  " to last you until the ripe old age of " +  max_age);
+
+
+// document.write("Favourite Snack: " +  snack);
+// document.write("<br> Current Age: " + age);
+// document.write("<br> Estimated Maximum Age: " + max_age);
+// document.write("<br> Amount of snacks per day: " + amount);
+// document.write("<br> You will need " + entire_amount + " silenty" + "  to last you until the ripe old age of " + max_age);
+
+
+                              X________________________________________X
 
 
 
